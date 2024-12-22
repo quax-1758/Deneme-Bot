@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@deepgram/sdk": "^3.9.0",
+    "@discordjs/voice": "^0.18.0",
+    "axios": "^1.7.9",
+    "discord.js": "^14.16.3",
+    "gtts": "^0.2.1"
+  }
+}
